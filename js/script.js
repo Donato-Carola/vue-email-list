@@ -12,6 +12,7 @@ createApp({
     return {
         email:[],
         visible: true,
+        
       
     }
   },
@@ -29,6 +30,9 @@ for(let i = 0 ; i <= 9; i++){
 
     }
   },
+
+   
+
   created(){
     this.emailGenerate();
   },

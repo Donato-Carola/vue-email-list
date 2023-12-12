@@ -1,0 +1,18 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+div#firstExercise{
+    padding: 2rem;
+}
+
+div#bonusBox{
+    padding: 2rem;
+   
+}
+
+div#bonusBox ul{
+     list-style: none;
+}
