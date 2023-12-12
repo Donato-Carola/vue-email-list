@@ -11,6 +11,7 @@ createApp({
   data() {
     return {
         email:[],
+        visible: true,
       
     }
   },
